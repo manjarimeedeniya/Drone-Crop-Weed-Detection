@@ -37,7 +37,12 @@ The main objectives of this project are to:
 ---
 
 ## Dataset
+This project uses the Weed Crop Aerial dataset from Roboflow Universe.
 
+Dataset:
+https://universe.roboflow.com/roboflow-100/weed-crop-aerial
+
+License: CC BY 4.0
 The dataset contains two object classes:
 
 | Class ID | Class |
